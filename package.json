@@ -1,0 +1,32 @@
+{
+  "name": "mindfield",
+  "version": "0.2.1",
+  "description": "My personal website for hosting my creations and projects, as well as general self-expression.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazyncat/mindfield.git"
+  },
+  "keywords": [
+    "website",
+    "neocities",
+    "javascript"
+  ],
+  "author": "lazyncat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazyncat/mindfield/issues"
+  },
+  "homepage": "https://github.com/lazyncat/mindfield#readme",
+  "dependencies": {
+    "alpinejs": "^3.15.0",
+    "lygia": "^1.3.3",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.5"
+  }
+}
